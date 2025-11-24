@@ -1,0 +1,24 @@
+{
+  "name": "gmach",
+  "version": "1.0.0",
+  "description": "Node.js backend service",
+  "main": "index.js",
+  "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1",
+     "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch730780/Gmach.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ch730780/Gmach/issues"
+  },
+  "homepage": "https://github.com/ch730780/Gmach#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
